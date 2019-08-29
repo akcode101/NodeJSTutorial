@@ -1,3 +1,3 @@
-# NodeJSYoutubeTutorial
+# NodeJSTutorial
 
 Trying to learn node.js through a Youtube tutorial...
